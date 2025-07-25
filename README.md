@@ -30,7 +30,7 @@ Write a Python program to reverse a number entered by the user.
 ---
 
 ### 📂 File:
-- [`Day1_ReverseDigits.py`](https://github.com/danishkhan00786/160--day-of-python/blob/main/Day-1_ReverseDigits.py)
+- [`Day1_ReverseDigits.py`](https://github.com/danishkhan00786/160--day-of-python/blob/main/Day01_ReverseDigits.py)
 
 ---
 
