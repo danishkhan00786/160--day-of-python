@@ -83,3 +83,17 @@ Write a Python program to find the sum of digits of any number (positive, negati
 `#Python` `#160DaysOfCode` `#ProblemSolving` `#PythonBeginners` `#CodeNewbie` `#DevJourney`
 
 ---
+## 🧠 Day 3: Prime Number Checker 🔍✅
+
+**Problem:**  
+Check whether a given number is a **prime number**.
+
+**✅ Goal:**  
+Efficiently determine if a number is prime using the square root method.
+
+**🎯 Learning Outcome:**
+- Understood that **prime numbers** are only divisible by 1 and themselves  
+- Used `range(2, int(n**0.5) + 1)` for optimized iteration  
+- Handled edge cases like 0, 1, and negative numbers
+
+**📄 File:** [Day03_Primenumbercheck.py] [https://github.com/danishkhan00786/160--day-of-python/blob/main/Day03_Primenumbercheck.py]
