@@ -97,3 +97,23 @@ Efficiently determine if a number is prime using the square root method.
 - Handled edge cases like 0, 1, and negative numbers
 
 **📄 File:** [Day03_Primenumbercheck.py] [https://github.com/danishkhan00786/160--day-of-python/blob/main/Day03_Primenumbercheck.py]
+🧠 Day 4 of #160DaysOfCode – Sum of Squares using Python! 🟦📐
+
+Continuing my Python problem-solving journey with another challenge that sharpens logic and builds muscle memory.
+
+🚀 Problem:
+Calculate the sum of squares from 0 to a given non-negative number.
+
+✅ Goal:
+Square each number in the range and sum them up.
+
+🎯 Learning Outcome:
+
+Used range(n+1) to include the upper limit
+
+Applied lambda with map() for square calculation
+
+Validated user input with try-except and basic checks
+
+Practiced clean and readable coding style
+**📄 File:** [Day04_sumofsquaresofnumbers.py] [https://github.com/danishkhan00786/160--day-of-python/blob/main/Day04_sumofsquaresofnumbers.py]
