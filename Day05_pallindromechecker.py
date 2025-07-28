@@ -1,4 +1,4 @@
-expression = input("enter a expression").replace("","").lower()
+expression = input("enter a expression").replace(" ","").lower()
 print(f"your given expression ({expression}) now checking for pallindrome")
 
 if expression == expression[::-1]:
