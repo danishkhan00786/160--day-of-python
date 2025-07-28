@@ -11,6 +11,6 @@ while i<len(reverse_expression):
 break
 i+=1
 if is_pallindrome:
-  print("✅given expression is pallindrome")
+  print("✅ Yes, given expression is pallindrome")
 else :
   print("❌not pallindrome")
